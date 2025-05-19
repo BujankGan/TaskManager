@@ -1,0 +1,2 @@
+C:/Users/bujan/OneDrive/Documents/GitHub/Task_manager_application/android/app/.cxx/Debug/4g434a2h/x86/CMakeFiles/edit_cache.dir
+C:/Users/bujan/OneDrive/Documents/GitHub/Task_manager_application/android/app/.cxx/Debug/4g434a2h/x86/CMakeFiles/rebuild_cache.dir
